@@ -1,0 +1,12 @@
+#FunctionDiv {
+    background-color: lightgreen;
+    width: 35%;
+    border-radius: 2rem;
+    margin: 2rem;
+    padding: 2rem;
+}
+
+#flex {
+    display: flex;
+    justify-content: space-around;
+}
